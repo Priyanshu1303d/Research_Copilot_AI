@@ -1,0 +1,3 @@
+
+-r Backend/requirements.txt
+-r Frontend/requirements.txt
